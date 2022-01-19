@@ -1,6 +1,6 @@
 - 👋🏾  Hey, I’m @CamFord16!
-- 📚  I’m an MSc student at TU Delft, studying Geoscience/Remote Sensing and Science Communication 🌋🛰🗣
-- 👀  Interested in geospatial data analysis + visualization, telling stories with data 💻 🌍
+- 📚  I’m an MSc student at TU Delft, studying Geoscience/Remote Sensing and Science Communication 🌋 🛰 🗣
+- 👀  Interested in geospatial data analysis + visualization 🌍 👾 💡, writing about science and tech 🔬 🔭 🤖 , and telling stories with data 💻 📝 
 - 🌱  Currently using Python and learning Google Earth Engine for Earth science data analysis!
 <!--- 
 - 💞️  I’m looking to collaborate on ... 
